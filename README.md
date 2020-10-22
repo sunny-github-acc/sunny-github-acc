@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-# I'm Karolis 
+### I'm Karolis 
 
  🌱 and I’m currently learning front-end fundamentals
  

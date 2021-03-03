@@ -4,7 +4,7 @@
 
  🌱 and I’m currently learning front-end fundamentals
  
- 😄 Don't be shy and contact me to have a word 
+ 😄 Don't be a stranger, drop me a message
 
 <!--
 **sunny-github-acc/sunny-github-acc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

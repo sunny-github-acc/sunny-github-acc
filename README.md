@@ -2,9 +2,7 @@
 
 ### I'm Karolis 
 
- 🌱 and I’m currently learning front-end fundamentals
- 
- 😄 Don't be a stranger, drop me a message
+Developing front-end apps are my cup of tea ☕
 
 <!--
 **sunny-github-acc/sunny-github-acc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

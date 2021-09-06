@@ -2,7 +2,7 @@
 
 ### I'm Karolis 
 
-Developing front-end apps are my cup of tea ☕
+Developing native apps are my cup of tea ☕
 
 <!--
 **sunny-github-acc/sunny-github-acc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

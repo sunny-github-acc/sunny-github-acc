@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-### I'm Karolis 
-
-Developing native apps are my cup of tea ☕
+### So happy to see you here ☺️ 
 
 <!--
 **sunny-github-acc/sunny-github-acc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
